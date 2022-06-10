@@ -17,6 +17,7 @@
  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampankaj07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ### Tools And Technologies
 <a href="">
  <img src="https://img.icons8.com/offices/40/000000/php-logo.png"/>
