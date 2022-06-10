@@ -16,15 +16,13 @@
 <a href="https://www.linkedin.com/in/pankaj-dulal-050a24185/">
  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
-<!-- <a href="">
- <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-</a> -->
+
 <!-- ### Tools And Technologies
 <a href="">
  <img src="https://img.icons8.com/offices/40/000000/php-logo.png"/>
 </a>
 
-</a> -->
+
 ### .......................................................................................................
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampankaj07&langs_count=10&layout=compact&theme=radical&card_width=445)]
