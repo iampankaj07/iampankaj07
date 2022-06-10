@@ -26,6 +26,7 @@
 
 </a> -->
 ### .......................................................................................................
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampankaj07&langs_count=10&layout=compact&theme=radical&card_width=445)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampankaj07&langs_count=10&layout=compact&theme=radical&card_width=445)]
 [![](https://github-readme-stats.vercel.app/api?username=iampankaj07&count_private=true&show_icons=true&theme=radical&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
 
