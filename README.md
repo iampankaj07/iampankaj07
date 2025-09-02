@@ -1,28 +1,52 @@
-### Welcome
-### Hi ,I am MR. Pankaj Dulal 👋
-🔭 I’m currently working on YCO Solutions Pvt. ltd
-- 🌱 I’m currently learning Advance Flutter,basic Laravel
-- 👯 I’m looking to collaborate on Flutter ...
-- 💬 Ask me about Dart/Flutter
-- 📫 How to reach me: pankaj.dulal07@gmail.com
+## Hi, I’m **Mr. Pankaj Dulal**  
 
-### Keep In Touch
-<a href="https://www.facebook.com/pankaj.dulal.07/">
-  <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
-</a>
-<a href="https://github.com/iampankaj07">
-  <img src="https://img.icons8.com/nolan/48/github.png"/>
-</a>
-<a href="https://www.linkedin.com/in/pankaj-dulal-050a24185/">
- <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
+🔭 Currently working at **YCO Solutions Pvt. Ltd**  
+🌱 Exploring **Advanced Flutter**, **Riverpod**, **Supabase**, and **Laravel**  
+👯 Open to collaborate on **Flutter apps**, **FinTech solutions**, and **AI-driven projects**  
+💬 Ask me about **Flutter, Dart, Riverpod, State Management, Stock Market Automation**  
+📫 Reach me at: **pankaj.dulal07@gmail.com** 
 
-### .......................................................................................................
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampankaj07&layout=compact&theme=radical&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ### Tools And Technologies
-<a href="">
- <img src="https://img.icons8.com/offices/40/000000/php-logo.png"/>
-</a>
+---
 
+## 🌐 Connect with Me  
 
+<p align="left">
+  <a href="https://www.facebook.com/pankaj.dulal.07/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/iampankaj07" target="_blank">
+    <img src="https://img.icons8.com/nolan/48/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pankaj-dulal-050a24185/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
 
+---
+
+## ⚡ GitHub Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampankaj07&layout=compact&theme=radical&card_width=445)  
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=iampankaj07&show_icons=true&theme=radical)
+
+---
+
+## 🛠️ Tools & Technologies  
+
+<p>
+  <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/>
+  <img src="https://img.icons8.com/color/48/dart.png" alt="Dart"/>
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
+  <img src="https://img.icons8.com/color/48/laravel.png" alt="Laravel"/>
+  <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/google-cloud.png" alt="Google Cloud"/>
+</p>
+
+---
+
+✨ _“Code. Build. Learn. Repeat.”_  
