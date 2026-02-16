@@ -11,7 +11,7 @@ I build **high-performance Flutter apps**, **stock market automation tools**, an
 
 - ⚡ Advanced Flutter (Modular architecture, performance tuning)  
 - 🧩 Riverpod for scalable state management  
-- ☁️ Supabase + Laravel hybrid backends  
+- ☁️ Firebase + Laravel hybrid backends  
 - 📈 Stock market automation & trading tools  
 - 🤖 AI-powered mobile apps  
 
@@ -22,14 +22,14 @@ I build **high-performance Flutter apps**, **stock market automation tools**, an
 - Flutter production apps  
 - FinTech platforms  
 - AI + Mobile integrations  
-- Automation systems  
+ 
 
 ---
 
 ## 💬 Ask Me About
 
-`Flutter` • `Dart` • `Riverpod` • `Clean Architecture` • `State Management`  
-`Laravel APIs` • `Supabase` • `Stock Market Bots`
+`Flutter` • `Dart` • `Riverpod` • `Provider` • `Bloc` • `Clean Architecture` • `State Management`  
+`Laravel APIs` • `Firebase` 
 
 ---
 
@@ -90,7 +90,6 @@ I build **high-performance Flutter apps**, **stock market automation tools**, an
 
 ## 🧩 Featured Work (Add Your Best Repos Here)
 
-- 📈 **Stock Market Automation Bot** – Browser-driven trading system  
 - 🛍️ **BloomBazar** – Full-stack Flutter + Laravel e-commerce  
 - 🎯 **Quiz App with Ad-Based Token Economy**  
 
