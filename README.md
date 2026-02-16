@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pankaj Dulal
 
 💼 **Software Engineer @ YCO Solutions Pvt. Ltd**  
-🚀 Flutter • FinTech • AI Automation • Laravel • Supabase  
+🚀 Flutter • FinTech • AI Automation • Laravel • Firebase  
 
 I build **high-performance Flutter apps**, **stock market automation tools**, and **AI-driven products** with production-ready architectures.
 
